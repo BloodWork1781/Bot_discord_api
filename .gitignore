@@ -1,0 +1,13 @@
+# Ne jamais publier tes clés API
+.env
+
+# Fichiers de cache Python
+__pycache__/
+*.pyc
+
+# Fichiers de données temporaires ou locales
+base_de_donnees*
+
+# Fichiers système (Windows/macOS/Linux)
+.DS_Store
+Thumbs.db
